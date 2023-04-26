@@ -1,6 +1,6 @@
 #include <iostream>
-#include "bmplib.h"
-#include "bmplib.cpp"
+#include "../src/bmplib.h"
+#include "../src/bmplib.cpp"
 unsigned char img[SIZE][SIZE][RGB];
 unsigned char img2[SIZE][SIZE][RGB];
 using namespace std;
